@@ -1,6 +1,7 @@
 ## Global Ads Performance Analysis  
-This project analyzes multi-platform digital advertising data to evaluate performance efficiency, scaling behavior, and budget allocation across Google Ads, Meta Ads, and TikTok Ads.
-[Kaggel dataset](https://www.kaggle.com/datasets/nudratabbas/global-ads-performance-google-meta-tiktok)
+- This project analyzes multi-platform digital advertising data to evaluate performance efficiency, scaling behavior, and budget allocation across Google Ads, Meta Ads, and TikTok Ads.
+
+[**Kaggel dataset**](https://www.kaggle.com/datasets/nudratabbas/global-ads-performance-google-meta-tiktok)
 ---
 
 ## Key Insights  
@@ -30,5 +31,4 @@ A $100K budget should prioritize **TikTok Ads at low spend levels**, with smalle
 ---
 
 ## Dashboard  
-[📊**Tableau Public Dashboard:**  
-👉 ](https://public.tableau.com/views/GlobalAdsPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[📊**Tableau Public Dashboard:**  ](https://public.tableau.com/views/GlobalAdsPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
