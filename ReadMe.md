@@ -1,7 +1,7 @@
 ## Global Ads Performance Analysis  
-- This project analyzes multi-platform digital advertising data to evaluate performance efficiency, scaling behavior, and budget allocation across Google Ads, Meta Ads, and TikTok Ads.
+This project analyzes multi-platform digital advertising data to evaluate performance efficiency, scaling behavior, and budget allocation across Google Ads, Meta Ads, and TikTok Ads.
 
-[**Kaggel dataset**](https://www.kaggle.com/datasets/nudratabbas/global-ads-performance-google-meta-tiktok)
+- [**Kaggel dataset**](https://www.kaggle.com/datasets/nudratabbas/global-ads-performance-google-meta-tiktok)
 ---
 
 ## Key Insights  
